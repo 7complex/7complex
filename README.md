@@ -29,3 +29,5 @@
 </div>
 
 ###
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=7complex&layout=compact&langs_count=6&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=7complex&layout=compact&langs_count=6&theme=dark_github)
