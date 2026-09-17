@@ -4,18 +4,6 @@
 
 ###
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/7complex/7complex/snake-output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=70&section=header&reversal=false&fontSize=69&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=gruvbox"  />
-</div>
-
-###
-
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
   <img width="12" />
