@@ -30,4 +30,4 @@
 
 ###
 
-
+<img src="https://ghstats.dev/api/langs?username=7complex&custom_title=Stats&layout=horizontal_list" alt="Top Languages" />
